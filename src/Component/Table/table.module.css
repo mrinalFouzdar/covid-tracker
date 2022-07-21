@@ -1,0 +1,26 @@
+.select{
+    display: flex;
+    justify-content: flex-end;
+    gap: 2vw;
+}
+
+table, td, th {
+    border: 1px solid black;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 5% 20%;
+  }
+  th{
+    padding: 0.5vw 0vw;
+    color:red;
+    font-size: xx-large;
+  }
+
+  td {
+    text-align: center;
+    padding: 1vw 0vw;
+    font-size: larger
+  }
